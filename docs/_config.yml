@@ -1,0 +1,36 @@
+# Jekyll configuration for GitHub Pages
+title: Booking Automotive Documentation
+description: >-
+  Documentation, API guides, industry benchmarks, and free open-source tools
+  for auto repair shop owners and developers using Booking Automotive.
+baseurl: "/docs"
+url: "https://bookingautomotive.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Author info for SEO
+author:
+  name: Booking Automotive
+  email: support@bookingautomotive.com
+
+# Social links
+social:
+  name: Booking Automotive
+  links:
+    - https://bookingautomotive.com
+
+# Defaults for all pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - .DS_Store
+  - sitemap.xml

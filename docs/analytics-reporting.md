@@ -222,6 +222,8 @@ Compare your performance to industry standards:
 - **Customer Retention Rates** - Typical retention percentages
 - **Average Repair Order** - Industry ARO benchmarks
 
+> **Tip:** See our free [Industry Benchmarks](/docs/benchmarks/) page for 2026 data from 400+ shops — compare your labor rates, ARO, no-show rates, and retention against real market data.
+
 ### Competitive Analysis
 
 Understand your competitive position:
@@ -261,3 +263,5 @@ Explore our other guides:
 - [Appointment Scheduling Guide](/docs/appointment-scheduling/)
 - [Customer Management Guide](/docs/customer-management/)
 - [Shop Management Guide](/docs/shop-management/)
+- [Industry Benchmarks](/docs/benchmarks/) - Compare your shop against 400+ real shops
+- [Free Tools & Calculators](/docs/tools/) - ROI, no-show, and labor rate calculators

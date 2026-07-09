@@ -176,6 +176,8 @@ Track key scheduling metrics:
 - **Customer Satisfaction** - Feedback on scheduling experience
 - **Technician Utilization** - Percentage of billable hours
 
+> **Tip:** Use our free [No-Show Rate Estimator](/docs/tools/) to calculate how much revenue no-shows cost your shop and how automated reminders could recover it. Built with city-level benchmark data from 400+ shops.
+
 ## Getting Started
 
 Ready to transform your appointment scheduling? [Sign up at bookingautomotive.com](https://bookingautomotive.com) and start optimizing your shop's schedule today.
@@ -185,3 +187,5 @@ For more information, check out our other guides:
 - [Getting Started Guide](/docs/getting-started/)
 - [Customer Management Guide](/docs/customer-management/)
 - [Shop Management Guide](/docs/shop-management/)
+- [Industry Benchmarks](/docs/benchmarks/) - Compare your scheduling metrics against 400+ shops
+- [Free Tools & Calculators](/docs/tools/) - No-show estimator, bay utilization calculator, and more

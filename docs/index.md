@@ -6,7 +6,7 @@ permalink: /docs/
 
 # Documentation
 
-Welcome to the Booking Automotive documentation hub. Here you'll find comprehensive guides to help you get the most out of your auto repair shop software.
+Welcome to the [Booking Automotive](https://bookingautomotive.com) documentation hub. Here you'll find comprehensive guides, free tools, industry benchmark data, and open-source resources to help you get the most out of your auto repair shop software.
 
 ## Getting Started
 
@@ -36,10 +36,29 @@ Use data to make smarter decisions and grow your business.
 
 - **[Analytics and Reporting Guide](/docs/analytics-reporting/)** - Unlock the power of your data. Learn about key performance indicators, revenue analytics, customer analytics, reporting tools, and using analytics for strategic decision making.
 
+- **[Industry Benchmarks](/docs/benchmarks/)** - Original 2026 data from 400+ auto repair shops. Compare your labor rates, ARO, no-show rates, and customer retention against regional and national averages.
+
+## Free Tools & Open-Source Resources
+
+Free calculators, scripts, and templates — no signup required.
+
+- **[Free Tools & Calculators](/docs/tools/)** - ROI calculator, no-show rate estimator, labor rate comparison tool, bay utilization analyzer, and more. Open-source and free to use.
+
+- **[Free Resources Hub](/docs/free-resources/)** - Complete collection of downloadable templates, checklists, and guides for auto repair shop owners.
+
+## Integrations & Developer Resources
+
+Connect Booking Automotive to the tools you already use, or build custom solutions with our API.
+
+- **[Integrations & API Guide](/docs/integrations/)** - API documentation, webhooks, SDKs, and integration guides for QuickBooks, Stripe, Google Calendar, and more. Open-source examples on GitHub.
+
 ## Quick Links
 
 - **[Booking Automotive Website](https://bookingautomotive.com)** - Visit our main website for product information and to sign up
 - **[Support](https://bookingautomotive.github.io/docs/auto-repair-shop-software/)** - Get help with any questions or issues
+- **[Industry Benchmarks](/docs/benchmarks/)** - Free data from 400+ auto repair shops
+- **[Free Tools](/docs/tools/)** - Calculators and open-source scripts
+- **[API Documentation](/docs/integrations/)** - Integrations and developer guides
 
 ## Need Help?
 

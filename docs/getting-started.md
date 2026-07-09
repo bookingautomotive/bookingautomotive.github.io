@@ -89,5 +89,8 @@ Now that you're set up, explore our other guides:
 - [Customer Management Guide](/docs/customer-management/)
 - [Shop Management Guide](/docs/shop-management/)
 - [Analytics and Reporting Guide](/docs/analytics-reporting/)
+- [Integrations & API Guide](/docs/integrations/) - Connect QuickBooks, Stripe, Google Calendar, and more
+- [Industry Benchmarks](/docs/benchmarks/) - Compare your shop against 400+ real shops
+- [Free Tools & Calculators](/docs/tools/) - ROI, no-show, and labor rate calculators
 
 Ready to transform your auto repair shop? [Get started today at bookingautomotive.com](https://bookingautomotive.com) and see the difference professional software can make.

@@ -171,6 +171,8 @@ Connect with existing systems:
 - Email and SMS (for customer communication)
 - Accounting software (QuickBooks, Xero)
 
+See the full [Integrations & API Guide](/docs/integrations/) for API documentation, webhooks, SDKs, and open-source examples.
+
 ### Start Booking
 
 Begin accepting online appointments immediately:
@@ -189,6 +191,8 @@ Auto repair shops using Booking Automotive see real results:
 - **25% Higher Average Repair Order** - Digital inspections drive additional services
 - **40% Time Savings on Admin** - Automated workflows free up staff time
 - **20% Revenue Growth in First 3 Months** - Better operations drive bottom-line results
+
+> **See how your shop compares:** Check our free [Industry Benchmarks](/docs/benchmarks/) for 2026 data from 400+ shops — compare your no-show rates, ARO, bay utilization, and labor rates against real market averages.
 
 ## Pricing
 
@@ -221,5 +225,9 @@ Explore our detailed guides:
 - [Customer Management Guide](/docs/customer-management/)
 - [Shop Management Guide](/docs/shop-management/)
 - [Analytics and Reporting Guide](/docs/analytics-reporting/)
+- [Integrations & API Guide](/docs/integrations/) - QuickBooks, Stripe, Google Calendar, and API docs
+- [Industry Benchmarks](/docs/benchmarks/) - 2026 data from 400+ shops
+- [Free Tools & Calculators](/docs/tools/) - ROI, no-show, and labor rate calculators
+- [Free Resources Hub](/docs/free-resources/) - Templates, checklists, and guides
 
 Ready to transform your auto repair shop? [Visit bookingautomotive.com](https://bookingautomotive.com) and start moving more cars and filling every bay today.

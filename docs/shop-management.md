@@ -240,3 +240,5 @@ Explore our other guides:
 - [Getting Started Guide](/docs/getting-started/)
 - [Appointment Scheduling Guide](/docs/appointment-scheduling/)
 - [Customer Management Guide](/docs/customer-management/)
+- [Industry Benchmarks](/docs/benchmarks/) - Compare your shop's labor rates, ARO, and productivity against 400+ shops
+- [Free Tools & Calculators](/docs/tools/) - Bay utilization, capacity planner, and ROI calculators

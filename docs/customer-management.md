@@ -218,3 +218,5 @@ Explore our other guides:
 - [Getting Started Guide](/docs/getting-started/)
 - [Appointment Scheduling Guide](/docs/appointment-scheduling/)
 - [Shop Management Guide](/docs/shop-management/)
+- [Industry Benchmarks](/docs/benchmarks/) - Compare your customer retention against 400+ shops
+- [Free Tools & Calculators](/docs/tools/) - Customer retention and ROI calculators
