@@ -4,6 +4,27 @@ title: Auto Repair Industry Benchmarks - 2026 Data from 400+ Shops
 permalink: /docs/benchmarks/
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Auto Repair Industry Benchmarks - 2026 Data",
+  "description": "Original benchmark data from 400+ U.S. auto repair shops including labor rates, efficiency metrics, and regional comparisons.",
+  "author": {
+    "@type": "Organization",
+    "name": "Booking Automotive",
+    "url": "https://bookingautomotive.com"
+  },
+  "datePublished": "2026-01-01",
+  "dateModified": "2026-07-09",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://bookingautomotive.github.io/docs/benchmarks/"
+  },
+  "articleBody": "Comprehensive auto repair industry benchmarks derived from 400+ shops including labor rates by tier and region, technician efficiency, capacity utilization, and ARO trends."
+}
+</script>
+
 # Auto Repair Industry Benchmarks
 
 Original benchmark data from **400+ U.S. auto repair shops** using Booking Automotive. Use these benchmarks to compare your shop's performance against regional and national averages, identify gaps, and set realistic growth targets.
