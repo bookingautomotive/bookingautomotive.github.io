@@ -231,6 +231,38 @@ Assess your shop's readiness for EV service. Score your tooling, training, and i
 
 ---
 
+## FAQ: AI Estimate Generator
+
+### What is the AI Estimate Generator?
+
+The AI Estimate Generator uses machine learning to analyze your shop's historical repair orders and generate accurate, data-driven estimates for common services. It considers factors like vehicle make/model, mileage, local labor rates, and parts costs.
+
+### How Accurate Are the Estimates?
+
+Our AI model is trained on thousands of real repair orders. Estimates typically fall within ±5% of final actual costs for standard services (oil changes, brake work, inspections). Complex diagnostics may have wider variance.
+
+### How Do I Use It?
+
+1. Select the vehicle and service type
+2. Input current mileage and any customer-reported symptoms
+3. Review the AI-generated line items (parts, labor, shop supplies)
+4. Adjust as needed based on your specific situation
+5. Present to customer as a preliminary estimate
+
+### Can I Customize the Estimates?
+
+Yes! The AI provides a starting point. You can:
+- Add or remove line items
+- Adjust labor times
+- Override parts selections
+- Apply your shop's markup rules
+
+### Is My Data Used to Train the AI?
+
+**No.** Your shop's data remains private. The AI model is pre-trained on historical industry data and does not learn from or store your specific repair orders.
+
+---
+
 ## Open-Source Repository
 
 All tools above are open-source and available on GitHub:
