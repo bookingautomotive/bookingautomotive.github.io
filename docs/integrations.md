@@ -18,6 +18,47 @@ Booking Automotive is built to play nicely with your existing software stack. Wh
 
 ---
 
+## How to Join Integration Waitlists
+
+Some integrations (marked "Coming soon" or "In beta") require joining a waitlist for early access. Here's how the process works:
+
+### Step-by-Step Guide
+
+1. **Find the integration** you want in this documentation
+2. **Click the waitlist link** in the integration description
+3. **Fill out the form** with:
+   - Your shop name and contact info
+   - Current software you're using (e.g., "We use Xero for accounting")
+   - Why you need this integration
+   - Expected timeline (e.g., "Need within 30 days" or "Just exploring")
+4. **Submit and confirm** — You'll receive an email confirmation
+5. **Wait for invitation** — We notify waitlist members in batches as we onboard new integrations
+
+### Waitlist Priority Factors
+
+We prioritize waitlist members based on:
+- **Number of requests** — More shops requesting = higher priority
+- **Use case clarity** — Specific, detailed requests get prioritized
+- **Timeline urgency** — Shops with near-term needs may get early access
+- **Feedback willingness** — Beta participants who provide feedback get priority
+
+### Expected Timelines
+
+- **High-demand integrations** (QuickBooks, Slack, etc.): 2-4 weeks
+- **Niche integrations** (specialty tools): 1-3 months
+- **Custom API requests**: Varies by complexity
+
+### What Happens When You're Off the Waitlist?
+
+1. **Email invitation** with setup instructions
+2. **Early access period** (typically 2 weeks) to test the integration
+3. **Feedback survey** to help us improve before general release
+4. **General availability** — integration becomes available to all users
+
+**[View current waitlist status](https://bookingautomotive.com/integrations/roadmap)** — see which integrations are in development, beta, or generally available.
+
+---
+
 ## Accounting Integrations
 
 ### QuickBooks Online
